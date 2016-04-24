@@ -21,10 +21,12 @@
   },
   "homepage": "https://github.com/pushrocks/unitfile#readme",
   "devDependencies": {
-    "npmts": "^5.0.4"
+    "npmts": "^5.0.4",
+    "should": "^8.3.1"
   },
   "dependencies": {
     "beautylog": "^4.1.2",
+    "smartfile": "^3.0.5",
     "systemd-unitfile": "0.0.2"
   }
 }
